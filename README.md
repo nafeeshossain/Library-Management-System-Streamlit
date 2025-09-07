@@ -37,7 +37,7 @@ The system supports both **Students** and **Librarians**, offering secure login,
 
 ### 🤖 Book Recommendation System
 - Suggests books based on:
-  - Favorites  
+  - Favorite Books
   - Past borrowing history  
   - Book categories & keywords  
 - Enhances discovery of related books  
